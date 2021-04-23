@@ -183,6 +183,7 @@ let employees = [
 
              // VARIABLE FOR EMPLOYEE NUMBERS
                     
+                    
                 let i = 1;
     
              // LOOP THROUGH EMPLOYEES ARRAY
